@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khaled</h1>
-<h3 align="center">A creative full stack developer from Egypt</h3>
+<h3 align="center">A full stack developer from Egypt</h3>
 
-- 🌱 I’m a currently working as a freelancer
+- 🌱 I’m a currently freelancer at freelancer.com
 
 - 💬 Ask me about **html, CSS, JavaScript, jQuery, bootstrap, Laravel and react**
 

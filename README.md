@@ -3,7 +3,7 @@
 
 - 🌱 I’m a freelancer
 
-- 💬 Ask me about **html, CSS, JavaScript, jQuery, bootstrap, Laravel and react**
+- 💬 Ask me about **html, CSS, JavaScript, jQuery, bootstrap, Laravel, React and React-Native**
 
 - 📫 How to reach me **khaledzaki370@gmail.com**
 

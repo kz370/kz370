@@ -3,7 +3,7 @@
 
 - 🌱 I'm a **freelancer** specializing in full-stack web development
 
-- 💼 **17 Projects** completed in the last 2 years ✨
+- 💼 **34 Projects** completed in the last 2 years ✨
 
 - 💬 Ask me about **Frontend Development, Backend Systems, Database Management, and Server Administration**
 
